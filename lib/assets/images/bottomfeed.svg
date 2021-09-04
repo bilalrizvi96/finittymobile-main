@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="39" viewBox="0 0 26 39">
+  <g id="Group_9650" data-name="Group 9650" transform="translate(-599 -5931)">
+    <text id="Feed" transform="translate(612 5967)" fill="#acb2c4" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="-12.505" y="0">Feed</tspan></text>
+    <g id="newspaper_1_" data-name="newspaper (1)" transform="translate(602 5931)">
+      <g id="Group_9647" data-name="Group 9647">
+        <path id="Path_13317" data-name="Path 13317" d="M19.486,6.9a.52.52,0,0,0-.518.518V21.177a2.637,2.637,0,0,1-2.634,2.634H3.671a2.637,2.637,0,0,1-2.634-2.634V6.337H16.208V19.682a.518.518,0,1,0,1.036,0V5.819a.52.52,0,0,0-.518-.518H.518A.52.52,0,0,0,0,5.819V21.172a3.673,3.673,0,0,0,3.671,3.671H16.329A3.673,3.673,0,0,0,20,21.172V7.421A.513.513,0,0,0,19.486,6.9Z" transform="translate(0 -5.301)" fill="#acb2c4"/>
+        <path id="Path_13318" data-name="Path 13318" d="M68.126,75.591a.545.545,0,0,0,0-1.09H56.245a.545.545,0,0,0,0,1.09Z" transform="translate(-53.17 -71.521)" fill="#acb2c4"/>
+        <path id="Path_13319" data-name="Path 13319" d="M68.126,319.1H56.245a.545.545,0,1,0,0,1.09H68.121a.545.545,0,0,0,0-1.09Z" transform="translate(-53.17 -305.588)" fill="#acb2c4"/>
+        <path id="Path_13320" data-name="Path 13320" d="M107.741,380.6h-10a.545.545,0,0,0,0,1.09h10a.545.545,0,0,0,0-1.09Z" transform="translate(-93.244 -364.565)" fill="#acb2c4"/>
+        <path id="Path_13321" data-name="Path 13321" d="M51.7,128.946v5.895a.547.547,0,0,0,.545.545h5.918a.547.547,0,0,0,.545-.545v-5.895a.547.547,0,0,0-.545-.545H52.245A.547.547,0,0,0,51.7,128.946Zm1.09.545h4.828v4.8H52.79Z" transform="translate(-49.352 -123.226)" fill="#acb2c4"/>
+        <path id="Path_13322" data-name="Path 13322" d="M241.864,140.4h-3.919a.545.545,0,1,0,0,1.09h3.919a.545.545,0,0,0,0-1.09Z" transform="translate(-227.313 -134.583)" fill="#acb2c4"/>
+        <path id="Path_13323" data-name="Path 13323" d="M241.864,194.6h-3.919a.545.545,0,1,0,0,1.09h3.919a.545.545,0,0,0,0-1.09Z" transform="translate(-227.313 -186.449)" fill="#acb2c4"/>
+        <path id="Path_13324" data-name="Path 13324" d="M242.409,252.746a.547.547,0,0,0-.545-.545h-3.919a.545.545,0,1,0,0,1.09h3.919A.544.544,0,0,0,242.409,252.746Z" transform="translate(-227.313 -241.569)" fill="#acb2c4"/>
+      </g>
+    </g>
+  </g>
+</svg>

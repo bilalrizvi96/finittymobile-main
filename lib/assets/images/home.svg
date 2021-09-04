@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="40" viewBox="0 0 32 40">
+  <g id="Group_11061" data-name="Group 11061" transform="translate(-171.67 -765)">
+    <text id="Home" transform="translate(187.67 802)" fill="#acb2c4" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="-15.535" y="0">Home</tspan></text>
+    <g id="Group_11058" data-name="Group 11058" transform="translate(174.497 765)">
+      <g id="Group_2987" data-name="Group 2987">
+        <path id="Path_6479" data-name="Path 6479" d="M822.437,253.911h2.051v8.2a.882.882,0,0,0,.879.879h6.006a.882.882,0,0,0,.879-.879v-6.006h3.662v6.006a.882.882,0,0,0,.879.879h5.714a.881.881,0,0,0,.878-.879v-8.2h2.491a.875.875,0,0,0,.615-1.494L835.035,240.8a.874.874,0,0,0-1.23-.014L821.836,252.4a.88.88,0,0,0-.2.967A.856.856,0,0,0,822.437,253.911Zm11.954-11.251,9.376,9.493h-1.259a.881.881,0,0,0-.879.879v8.2h-3.956v-6.007a.881.881,0,0,0-.878-.878h-5.421a.881.881,0,0,0-.879.878v6.007h-4.248v-8.2a.882.882,0,0,0-.879-.879h-.762Z" transform="translate(-821.567 -240.539)" fill="#acb2c4"/>
+      </g>
+    </g>
+  </g>
+</svg>
